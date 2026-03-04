@@ -1,4 +1,5 @@
-📊 Data Analytics Portfolio of Iryna Miklashevska 
+📊 Data Analytics Portfolio of Iryna Miklashevska
+
 This repository contains selected data analysis projects demonstrating practical experience in SQL, Python, and business analytics.
 
 
