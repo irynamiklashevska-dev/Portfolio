@@ -2,6 +2,31 @@
 
 This repository contains selected data analysis projects demonstrating practical experience in SQL, Python, and business analytics.
 
+📣 Facebook Ads Marketing Performance Analysis
+
+Tools: Python (Pandas, NumPy), Matplotlib, Seaborn, Jupyter Notebook
+
+📌 Business Context
+
+Analyzed Facebook advertising campaign data to evaluate marketing efficiency and identify opportunities for budget optimization. The objective was to assess the profitability of paid acquisition channels and determine which campaigns generated sustainable business value.
+
+🔎 Key Responsibilities
+
+– Data cleaning and validation of marketing performance metrics
+– Calculation of core KPIs: CTR, CPC, CPM, Conversion Rate, and ROMI
+– Campaign-level performance aggregation and segmentation
+– Correlation analysis between ad spend and generated revenue
+– Identification of underperforming and high-performing campaigns
+– Development of visual reports to support decision-making
+
+📈 Business Impact & Insights
+
+– Identified campaigns with the highest Return on Marketing Investment (ROMI), enabling more efficient budget allocation
+– Revealed diminishing returns patterns for certain spend levels
+– Highlighted inconsistencies in conversion efficiency across campaigns
+– Provided recommendations for reallocating budget toward high-performing segments
+– Demonstrated the relationship between spend, engagement metrics, and revenue generation
+
 
 🛒 E-commerce Data Analysis  
 
